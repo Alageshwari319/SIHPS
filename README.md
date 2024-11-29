@@ -26,11 +26,10 @@ The platform will prioritize user engagement, data security, and scalability.
 
 
 ## Proposed Solution / Architecture Diagram
-
+![architecture diagram](https://github.com/user-attachments/assets/21996d6e-97ad-4213-a35f-31e6a961965a)
 
 ## Use Cases
-
-
+![use cases](https://github.com/user-attachments/assets/4082c30d-1008-415e-ae8b-3f250cba51dc)
 
 
 ## Technology Stack
